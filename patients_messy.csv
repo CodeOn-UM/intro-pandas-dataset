@@ -1,0 +1,11 @@
+patient_id,age,site,lab_result,weight,height,diagnosis
+1001,58,Site_A,5.4,70,175,Type_2_Diabetes
+1002,63,Site_B,6.1,82,168,Hypertension
+1003,45,Site_A,4.8,65,180,Control
+1004,71,Site_B,9999,91,162,Type_2_Diabetes
+1005,32,Site_A,5.0,Unknown,172,Control
+1006,54,Site_B,N/A,78,170,Hypertension
+1007,68,Site_A,6.8,85,165,Type_2_Diabetes
+1008,29,Site_A,4.5,60,158,Control
+1009,77,Site_B,7.2,88,174,Hypertension
+1010,41,Site_A,5.1,72,182,Control
