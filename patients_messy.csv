@@ -1,4 +1,4 @@
-PT-ID,age,site,lab_result,weight,height,diagnosis
+Pt-ID,age,site,lab_result,weight,height,diagnosis
 1001,58,Site_A,5.4,70,175,Type_2_Diabetes
 1002,63,Site_B,6.1,82,168,Hypertension
 1003,45,Site_A,4.8,65,180,Control
