@@ -1,0 +1,13 @@
+patient_id,gender,age,site,diagnosis,height,weight
+2001,Female,62,Site_B,Control,159,80
+2002,Male,62,Site_B ,Type_2_Diabetes,162,84
+2003,Female,76,site_b,Type_2_Diabetes,166,65
+2004,Male,49,Site_B,Hypertension,166,73
+2005,Male,39,Site_B ,Control,173,83
+2006,Female,60,Site_B,Hypertension,171,85
+2007,Male,75,site_b,Control,176,91
+2008,Female,77,Site_B,Type_2_Diabetes,181,76
+2009,Male,72,Site_B ,Type_2_Diabetes,180,87
+2010,Male,62,Site_B,Hypertension,178,73
+2011,Female,47,site_b,Control,183,106
+2012,Male,47,Site_B,Hypertension,166,64

@@ -1,0 +1,13 @@
+Pt-ID,age,sex,site,weight,height,diagnosis
+1001,51,M,Site_A,66,171,Control
+1002,68,M,Site_A,79,164,Control
+1003,34,F,Site_A,59,158,Hypertension
+1004,43,F,Site_A,86,177,Hypertension
+1005,34,M,Site_A,81,159,Control
+1006,51,M,Site_A,66,165,Type_2_Diabetes
+1007,77,F,Site_A,85,170,Hypertension
+1008,34,F,Site_A,67,170,Type_2_Diabetes
+1009,47,F,Site_A,63,161,Control
+1010,48,F,Site_A,107,183,Hypertension
+1011,74,F,Site_A,82,177,Type_2_Diabetes
+1012,38,M,Site_A,92,183,Type_2_Diabetes
